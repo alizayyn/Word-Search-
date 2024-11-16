@@ -1,0 +1,1 @@
+Thi is a console based word searching app which takes a text file and the word that are to be found as a input and searches the words in the lines as an tel the count of occurances this implentation is done by using binary search tree
